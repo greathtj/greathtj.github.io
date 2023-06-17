@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "YoloV5 "
+title: "YoloV5 강의 - 01"
 ---
 
 ## Python 언어를 설치합니다.
