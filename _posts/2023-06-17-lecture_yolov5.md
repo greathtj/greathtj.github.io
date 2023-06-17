@@ -1,3 +1,8 @@
+---
+layout: single
+title: "YoloV5 "
+---
+
 ## Python 언어를 설치합니다.
 
 - https://www.python.org/
