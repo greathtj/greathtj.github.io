@@ -7,7 +7,7 @@ title: "YoloV5 강의 - 01"
 
 - https://www.python.org/
 
-![image.png](lecture_yolov5_files/image.png)
+![image.png](_posts/lecture_yolov5_files/image.png)
 
 ![image-2.png](lecture_yolov5_files/image-2.png)
 
