@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Lecture, Yolov5 with python"
+---
+
 ## Python 언어를 설치합니다.
 
 - https://www.python.org/
