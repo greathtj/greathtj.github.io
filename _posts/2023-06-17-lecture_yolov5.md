@@ -25,7 +25,7 @@ title: "YoloV5 강의 - 01"
 
 * 우선 git 프로그램을 설치합니다.
 
-![image.png](lecture_yolov5_files/image.png)
+![lecture_yolov5_files/image.png](lecture_yolov5_files/image.png)
 
 * 해당 사이트에 접속합니다. (https://github.com/ultralytics/yolov5)
 
